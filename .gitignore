@@ -1,4 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# API Key (v3 auth)
+# cc0ebfdd16034767d7188415ea58ba17
+
+# Example API Request
+# https://api.themoviedb.org/3/movie/550?api_key=cc0ebfdd16034767d7188415ea58ba17
+
+
+# API Read Access Token (v4 auth)
+# eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjYzBlYmZkZDE2MDM0NzY3ZDcxODg0MTVlYTU4YmExNyIsInN1YiI6IjVmMzJlZTcyOGVkMDNmMDAzNmY2MTJhYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6YO-jAh7gqNvKeC5eq7A7yn5Hhx4oyiyx5ySbKNiZGQ
+
 
 # dependencies
 /node_modules
